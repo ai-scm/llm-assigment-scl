@@ -1,4 +1,4 @@
-# Git Flow Repository
+# Git Flo
 
 This repository is using git-flow with the following branches:
 - main: Production releases
